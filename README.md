@@ -7,8 +7,8 @@ Depois de realizar toda a analise exploratória dos dados foi necessário realiz
 Usuários que utilizam o plano com mais benefícios (mais internet, tempo de ligação, mensagens) tendem a utilizar ao máximo os limites máximos do plano. E a principal conclusão que cheguei foi a de que houve diferenças entre as receitas médias de cada plano, onde o plano mais caro traz quase o dobro da receita para a empresa do que o plano mais barato, sendo mais adequado o investimento em marketing nesse plano.
 
 - Foram várias as habilidades desenvolvidas nesse sprint, como:
-- Avaliação de variáveis contínuas e discretas usando histogramas de vários tipos;
-- Capacidade para tirar conclusões sobre dados com base em métricas estatísticas;
-- Familiarização com a teoria da probabilidade;
-- Definição dos tipos de distribuição e aprendizado de como calcular tanto a distribuição normal como a binomial;
-- Formular e testar hipóteses.
+    - Avaliação de variáveis contínuas e discretas usando histogramas de vários tipos;
+    - Capacidade para tirar conclusões sobre dados com base em métricas estatísticas;
+    - Familiarização com a teoria da probabilidade;
+    - Definição dos tipos de distribuição e aprendizado de como calcular tanto a distribuição normal como a binomial;
+    - Formular e testar hipóteses.
